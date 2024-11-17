@@ -1,2 +1,2 @@
-# jobFriend
+# findMeJob
 Centralized job monitor platform
